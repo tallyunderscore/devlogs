@@ -1,0 +1,18 @@
+a few ideas - by me - 2023-02-05
+
+Every project needs an idea. I have a few integrations, a few requirements, and also a few issues that I may encounter. I will list them here:
+
+IDEAS / INTEGRATIONS:
+- STT Recognition
+- Personal STT Recognition and Validation (records)
+- NFC / RFID Reading for Debug Cards + STT For debug card code
+- Arduino Movement Module
+- Arduino Multidirection Ultrasonic Sensor Handler
+- Light Ambient Sensor (for detecting light in a room)
+- Live Camera Device
+- Somehow a beefy computer (PySerial + openCV + audioprocess)
+
+ISSUES POTENTIALLY:
+- Power Consumption while still being wireless (multiple arduinos, computer)
+- Money (this is gonna cost a billion dollars)
+- Quick Program (multiple modules will slow down the program)
